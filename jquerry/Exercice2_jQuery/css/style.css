@@ -1,0 +1,43 @@
+
+
+ ul  {
+    list-style: none;
+    width: 100%;   
+}
+
+ul li{
+    float: left;
+    overflow: hidden;
+    position: relative;
+  
+}
+
+#voiture{
+    background: url("../Exercice2/images/728-300-4.jpg");
+    height: 300px;
+    width: 200px;
+}
+#voiture1{
+    background: url("../Exercice2/images/728-300-1.jpg");
+    height: 300px;
+    width: 200px;
+}
+#voiture2{
+    background: url("../Exercice2/images/728-300-2.jpg");
+    height: 300px;
+    width: 200px;
+}
+#voiture3{
+    background: url("../Exercice2/images/728-300-3.jpg");
+    height: 300px;
+    width: 200px;
+}
+
+.texte{
+
+    /* display: none; */
+
+    /*absolute+top ou display !none*/
+    position: absolute;/*absolute par rapoprt au body*/
+    top: 350px;
+}
