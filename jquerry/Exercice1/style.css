@@ -1,0 +1,29 @@
+
+ol li {
+    border-bottom: 3px solid rgb(22, 214, 22);
+}
+
+ol{
+    list-style: none;
+    width: 50%;
+    margin: 0 auto;
+}
+li span{
+    float:right;
+    font-weight: bold;
+    color:red;
+    size: 34px;
+    position: relative;
+    top: -40px;
+    
+}
+
+/* li:hover p{
+    display: block;
+    transition: 2s;
+} */
+
+/* p{
+    display: none;
+} */
+
