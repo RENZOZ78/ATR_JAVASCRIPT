@@ -6,7 +6,6 @@ $(function(){
         $("span",this).html('-');
         $("p",this).show();
 
-
     },function(){
         $("span",this).html('+');
         $("p",this).hide();

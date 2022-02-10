@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    margin: 30% auto;
+    width: 950px;
+}
+
+#navigation{
+    /* display: flex; */
+   
+    /* justify-content: center; */   
+}
+
+#navigation li {
+    background-color: red;
+    list-style: none;
+    width: 220px; 
+    font-size: 25px;
+    float: left;
+    text-align: center;
+    
+}
+
+
+#navigation a{
+    text-decoration: none;
+}
+
+.titre_menu{
+    color: forestgreen;
+}
+
+li ul li a{     
+    color: antiquewhite;
+   
+}
+
+
+
+  /* .menu ul, .menu2 ul{
+      
+    display: none;
+}  */
+
+
+
+
+
